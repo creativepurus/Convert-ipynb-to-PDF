@@ -16,11 +16,17 @@
 </div>
 
 # 📚 Table of Contents
-- 🔰 [ABOUT](#about)
-- 👨‍💻 [STEPS](#steps)
-- 📣 [FEEDBACK & CONTRIBUTIONS 🤝](#feedback--contributions)
-- 📖 [LICENSE](#license)
-- 📲 [REACH ME](#reach-me)
+### 🔰 [ABOUT](#about)
+### 👨‍💻 [STEPS](#steps)
+- [STEP 1](#👉🏻-step-1)
+- [STEP 2](#👉🏻-step-2)
+- [STEP 3](#👉🏻-step-3)
+- [STEP 4](#👉🏻-step-4)
+- [STEP 5](#👉🏻-step-5)
+- [STEP 6](#👉🏻-step-6--anaconda-navigator)
+### 📣 [FEEDBACK & CONTRIBUTIONS 🤝](#feedback--contributions)
+### 📖 [LICENSE](#license)
+### 📲 [REACH ME](#reach-me)
 
 # ABOUT
 ### ✨ This repository provides a simple and convenient way to convert Jupyter Notebook (ipynb) files to PDF format 🤓
