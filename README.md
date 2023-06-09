@@ -93,7 +93,7 @@ pandoc --version
 ### Step 1 : Open Anaconda Navigator. Then Launch the `Jupyter Notebook`
 ![Step 1](Images/Anaconda-Navigator.png)
 
-### Step 2 : `Upload` then Open your Notebook File
+### Step 2 : `Upload` then `Open` your Notebook File
 ![Step 2](Images/NB-1.png)
 
 ### Step 3 : Go to `File` > `Download as`
