@@ -76,7 +76,9 @@ pandoc --version
 
 ### Alternatively, you can also visit the Official website of TeX Live here: https://tug.org/texlive/
 
-### 🔰 NOTE : TeXlive is a large distribution, and installing it might consume a significant amount of disk space. It has over 4000+ files. It might take 1-2 hours for TeX Live to install in your device. So be patient, have a coffee, and leave the rest on installer.
+### 🔰 NOTE : TeXlive is a large distribution, and installing it might consume a significant amount of disk space. It has over 4000+ files. It might take 1-2 hours (depending upon the system) for TeX Live to install in your device. 
+
+### ☕ So be patient, have a Coffee, and leave the rest on installer. You can also : [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru) here 😊
 
 - Once you have `nbconvert`, `Pandoc` and `TeX` installed, you should be able to convert Jupyter Notebook (.ipynb) files to PDF
 
