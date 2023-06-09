@@ -21,9 +21,7 @@
 - 🔰 
 - 📣 [Feedback & Contributions 🤝](#feedback--contributions)
 - 📖 [License](#license)
-- 📲 [Connect on Linkedin](#reach-me)
-- 👉🏻 [Buy Me a Coffee ☕](#reach-me)
-- ❤️ [Sponsor Me on GitHub](#reach-me)
+- 📲 [Reach Me](#reach-me)
 
 # About
 - ✨ 🤓👨‍🎓👩‍🎓
