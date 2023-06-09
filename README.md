@@ -30,11 +30,14 @@
 
 # Steps
 
-### 👉🏻 Step 1. To get started, at first you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
+### 👉🏻 Step 1 :
+### To get started, at first you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
 
-### 👉🏻 Step 2. Now Install `Anaconda Navigator` from the official website: https://docs.anaconda.com/free/anaconda/install/ 
+### 👉🏻 Step 2 :
+### Now Install `Anaconda Navigator` from the official website: https://docs.anaconda.com/free/anaconda/install/ 
 
-### 👉🏻 Step 3. Now you need to install `nbconvert` tool. To install nbconvert, follow the below mentioned steps:
+### 👉🏻 Step 3 :
+### Now you need to install `nbconvert` tool. To install nbconvert, follow the below mentioned steps:
 
 - 1. Open the `command prompt` or terminal
 
@@ -44,7 +47,8 @@ pip install nbconvert
 ```
 - This command will download and install the nbconvert package and its dependencies. Wait for the installation to complete. You should see the progress in the command prompt or terminal.
 
-### 👉🏻 Step 4. Now you need to install `Pandoc` in addition to nbconvert if you want to convert .ipynb files to PDF format. Pandoc is a separate tool that nbconvert relies on for the conversion process.
+### 👉🏻 Step 4 :
+### Now you need to install `Pandoc` in addition to nbconvert if you want to convert .ipynb files to PDF format. Pandoc is a separate tool that nbconvert relies on for the conversion process.
 
 - To install Pandoc, follow the below mentioned steps:
 
@@ -62,7 +66,8 @@ pandoc --version
 
 ### 🔰 NOTE : RESTART your Device 💻 (Laptop or Desktop) after installing `nbconvert` and `pandoc`
 
-### 👉🏻 Step 5. Now the final tool that you will need is the `TeX` tool. 
+### 👉🏻 Step 5 :
+### Now the final tool that you will need is the `TeX` tool. 
 
 - For converting notebooks to PDF (with --to pdf), nbconvert makes use of `LaTeX` and the `XeTeX` as the rendering engine.
 
