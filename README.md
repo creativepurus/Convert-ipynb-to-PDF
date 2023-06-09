@@ -21,8 +21,9 @@
 - 🔰 
 - 📣 [Feedback & Contributions 🤝](#feedback--contributions)
 - 📖 [License](#license)
-- 📲 Connect on Linkedin
-- 👉🏻 Buy Me a Coffee ☕
+- 📲 [Connect on Linkedin](#reach-me)
+- 👉🏻 [Buy Me a Coffee ☕](#reach-me)
+- ❤️ [Sponsor Me on GitHub](#reach-me)
 
 # About
 - ✨ 🤓👨‍🎓👩‍🎓
@@ -55,6 +56,7 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 
 </b>
 
+# Reach Me
 <p align="center">
 <a href="https://openinapp.co/connect-on-linkedin-puru">
     <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
