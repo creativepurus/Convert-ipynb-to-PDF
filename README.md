@@ -22,12 +22,12 @@
 - 📖 [LICENSE](#license)
 - 📲 [REACH ME](#reach-me)
 
-# About
+# ABOUT
 ### ✨ This repository provides a simple and convenient way to convert Jupyter Notebook (ipynb) files to PDF format 🤓
 
 ### ✨ By following the instructions properly which are mentioned below, you can easily convert any Jupyter Notebook (.ipynb) file to PDF file 🚀
 
-# Steps
+# STEPS
 
 ### 👉🏻 Step 1 :
 ### To get started, at first you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
@@ -110,7 +110,7 @@ pandoc --version
 
 ### ☕ So be patient, have a Coffee, and leave the rest. You can also [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru) here 😊
 
-# Feedback & Contributions
+# FEEDBACK & CONTRIBUTIONS
 If you have any suggestions for improving the code or adding new notebooks, feel free to submit a pull request. We welcome contributions from the community.
 
 - Fork the project
@@ -121,14 +121,14 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 
 ### ❤️ Thank you for visiting my repository, and happy exploring 🤗
 
-# License
+# LICENSE
 ### My [ "Convert ipynb to PDF" repository](https://github.com/creativepuru/Convert-ipynb-to-PDF) is licensed under the [Standard MIT License](https://github.com/creativepuru/Python-Basics/blob/main/LICENSE.txt) License. 
 - See [LICENSE](https://github.com/creativepuru/Python-Basics/blob/main/LICENSE.txt) for more information.
 <br> </br>
 
 </b>
 
-# Reach Me
+# REACH ME
 <p align="center">
 <a href="https://openinapp.co/connect-on-linkedin-puru">
     <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
