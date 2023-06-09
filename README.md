@@ -110,7 +110,7 @@ pandoc --version
 ### Step 5 : Done
 ![Step 5](Images/NB-4.png)
 
-- A new window will open up now and your conversion will be done in few seconds/minutes (depending upon the system).
+- A new blank window will open up now and your conversion will be done in few seconds/minutes (depending upon the system).
 
 ### ☕ So be patient, have a Coffee, and leave the rest. You can also [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru) here 😊
 
