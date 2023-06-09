@@ -30,9 +30,9 @@
 
 ### 1. To get started, at first you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
 
-### 2. Now, Install `Anaconda Navigator` from the official website: https://docs.anaconda.com/free/anaconda/install/ 
+### 2. Now Install `Anaconda Navigator` from the official website: https://docs.anaconda.com/free/anaconda/install/ 
 
-### 3. Now, you need to install `nbconvert` tool. To install nbconvert, follow the below mentioned steps:
+### 3. Now you need to install `nbconvert` tool. To install nbconvert, follow the below mentioned steps:
 
 - 1. Open the `command prompt` or terminal
 
@@ -60,13 +60,13 @@ pandoc --version
 
 - Once you have both `nbconvert` and `Pandoc` installed, you should be able to convert Jupyter Notebook (.ipynb) files to PDF
 
-### 5. Now, the final tool that you will need is the `TeX` tool. For converting notebooks to PDF (with --to pdf), nbconvert makes use of `LaTeX` and the `XeTeX` as the rendering engine.
+### 5. Now the final tool that you will need is the `TeX` tool. For converting notebooks to PDF (with --to pdf), nbconvert makes use of `LaTeX` and the `XeTeX` as the rendering engine.
 
-### To install a complete TeX environment (including XeLaTeX and the necessary supporting packages) by hand can be tricky. Fortunately, there are packages that make this much easier.
+- To install a complete TeX environment (including XeLaTeX and the necessary supporting packages) by hand can be tricky. Fortunately, there are packages that make this much easier.
 
-### Because nbconvert depends on packages and fonts included in standard `TeX distributions`, if you do not have a complete installation, you may not be able to use nbconvert’s standard tooling to convert notebooks to PDF.
+- Because nbconvert depends on packages and fonts included in standard `TeX distributions`, if you do not have a complete installation, you may not be able to use nbconvert’s standard tooling to convert notebooks to PDF.
 
-### These packages are specific to different `operating systems`. Follow the links below as per your Operating System (OS):
+### These packages are specific to different `operating systems`. Follow the below links as per your Operating System (OS):
 
 - 1. [Windows](https://tug.org/texlive/windows.html)
 - 2. [MacOS](https://tug.org/mactex/)
