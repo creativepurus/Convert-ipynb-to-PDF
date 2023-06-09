@@ -35,7 +35,7 @@
 
 # STEPS
 
-### Step 1 :
+### Step 1
 ### To get started, at first you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
 
 ### 👉🏻 Step 2 :
