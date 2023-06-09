@@ -34,11 +34,9 @@
 
 - Now, you need to install `nbconvert` tool. To install nbconvert, follow the below steps:
 
-- 1. Open the `command prompt` or `terminal`
+### 1. Open the `command prompt` or terminal
 
-- 2. (Optional) Activate your Python environment if you're using a virtual environment. Skip this step if you're using the global Python environment.
-
-- 3. Run the following command to install nbconvert using pip:
+### 2. Run the following command to install nbconvert using pip:
 ```
 pip install nbconvert
 ```
