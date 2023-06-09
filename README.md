@@ -58,7 +58,7 @@ pandoc --version
 
 - If the installation was successful, you should see the version information for Pandoc.
 
-- Once you have both `nbconvert` and `Pandoc` installed, you should be able to convert Jupyter Notebook (.ipynb) files to PDF
+### 💻 RESTART your Device (Laptop or Desktop) after installing `nbconvert` and `pandoc`
 
 ### 5. Now the final tool that you will need is the `TeX` tool. For converting notebooks to PDF (with --to pdf), nbconvert makes use of `LaTeX` and the `XeTeX` as the rendering engine.
 
@@ -72,6 +72,9 @@ pandoc --version
 - 1. [Windows](https://tug.org/texlive/windows.html)
 - 2. [MacOS](https://tug.org/mactex/)
 - 3. [Linux](https://tug.org/texlive/quickinstall.html)
+
+
+- Once you have `nbconvert`, `Pandoc` and `TeX` installed, you should be able to convert Jupyter Notebook (.ipynb) files to PDF
 
 # Feedback & Contributions
 If you have any suggestions for improving the code or adding new notebooks, feel free to submit a pull request. We welcome contributions from the community.
