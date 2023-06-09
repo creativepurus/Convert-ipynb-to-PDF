@@ -18,7 +18,7 @@
 # 📚 Table of Contents
 ### 🔰 [ABOUT](#about)
 ### 👨‍💻 [STEPS](#steps)
-- [STEP 1](#👉🏻-step-1)
+- [STEP 1](#step-1)
 - [STEP 2](#👉🏻-step-2)
 - [STEP 3](#👉🏻-step-3)
 - [STEP 4](#👉🏻-step-4)
@@ -35,7 +35,7 @@
 
 # STEPS
 
-### 👉🏻 Step 1 :
+### Step 1 :
 ### To get started, at first you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
 
 ### 👉🏻 Step 2 :
