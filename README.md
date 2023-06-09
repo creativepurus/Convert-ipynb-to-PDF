@@ -15,11 +15,11 @@
 
 
 # 📚 Table of Contents
-- 🔰 [About](#About)
+- 🔰 [About](#🔰-about)
 - 💻 
-- 👨‍💻 Getting Started
+- 👨‍💻 [Getting Started](#👨‍💻-getting-started)
 - 🔰 
-- 📣 Feedback & Contributions 🤝
+- 📣 [Feedback & Contributions 🤝](#📣-feedback--contributions-🤝)
 - 📖 License
 - 📲 Connect on Linkedin
 - 👉🏻 Buy Me a Coffee ☕
