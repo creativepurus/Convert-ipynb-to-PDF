@@ -66,7 +66,8 @@ pandoc --version
 
 - Because nbconvert depends on packages and fonts included in standard `TeX distributions`, if you do not have a complete installation, you may not be able to use nbconvert’s standard tooling to convert notebooks to PDF.
 
-### These packages are specific to different `operating systems`. Follow the below links as per your Operating System (OS) to install `TeX`, `LaTeX` and `XeTeX`:
+### These packages are specific to different `operating systems`. 
+### Follow the below links as per your Operating System (OS) to `install` TeX:
 
 - 1. [Windows](https://tug.org/texlive/windows.html)
 - 2. [MacOS](https://tug.org/mactex/)
