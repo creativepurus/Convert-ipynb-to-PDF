@@ -48,7 +48,7 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 
 ### ❤️ Thank you for visiting my repository, and happy exploring 🤗
 
-# 📖 License
+# License
 ### My [ "Convert ipynb to PDF" repository](https://github.com/creativepuru/Convert-ipynb-to-PDF) is licensed under the [Standard MIT License](https://github.com/creativepuru/Python-Basics/blob/main/LICENSE.txt) License. 
 - See [LICENSE](https://github.com/creativepuru/Python-Basics/blob/main/LICENSE.txt) for more information.
 <br> </br>
