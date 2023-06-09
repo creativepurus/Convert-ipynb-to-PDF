@@ -24,9 +24,8 @@
 - 📲 [Reach Me](#reach-me)
 
 # About
-- ✨ 🤓👨‍🎓👩‍🎓
-- ✨ 🚀
-- 🤓 💪
+- ✨ This repository provides a simple and convenient way to convert Jupyter Notebook (ipynb) files to PDF format 🤓
+- ✨ The conversion process allows you to easily share and distribute your Jupyter Notebook files as PDF documents 🚀
 
 # Getting Started
 - To get started, you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
