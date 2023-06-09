@@ -69,9 +69,9 @@ pandoc --version
 ### These packages are specific to different `operating systems`. 
 ### Follow the below links as per your Operating System (OS) to `install` TeX:
 
-- 1. [Windows](https://tug.org/texlive/windows.html)
-- 2. [MacOS](https://tug.org/mactex/)
-- 3. [Linux](https://tug.org/texlive/quickinstall.html)
+- 1. [Windows](https://tug.org/texlive/windows.html) : https://tug.org/texlive/windows.html
+- 2. [MacOS](https://tug.org/mactex/) : https://tug.org/mactex/
+- 3. [Linux](https://tug.org/texlive/quickinstall.html) : https://tug.org/texlive/quickinstall.html
 
 ### Alternatively, you can also visit the Official website of TeX Live here: https://tug.org/texlive/
 
