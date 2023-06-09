@@ -58,7 +58,7 @@ pandoc --version
 
 - If the installation was successful, you should see the version information for Pandoc.
 
-### 💻 RESTART your Device (Laptop or Desktop) after installing `nbconvert` and `pandoc`
+### 💻 NOTE: RESTART your Device (Laptop or Desktop) after installing `nbconvert` and `pandoc`
 
 ### 5. Now the final tool that you will need is the `TeX` tool. For converting notebooks to PDF (with --to pdf), nbconvert makes use of `LaTeX` and the `XeTeX` as the rendering engine.
 
