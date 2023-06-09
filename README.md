@@ -73,6 +73,7 @@ pandoc --version
 - 2. [MacOS](https://tug.org/mactex/)
 - 3. [Linux](https://tug.org/texlive/quickinstall.html)
 
+### Alternatively, you can also visit the Official website of TeX Live here: https://tug.org/texlive/
 
 - Once you have `nbconvert`, `Pandoc` and `TeX` installed, you should be able to convert Jupyter Notebook (.ipynb) files to PDF
 
