@@ -100,6 +100,7 @@ pandoc --version
 ### Step 4 : Select `PDF via LaTeX (.pdf)`
 ![Step 4](Images/NB-3.png)
 
+
 # Feedback & Contributions
 If you have any suggestions for improving the code or adding new notebooks, feel free to submit a pull request. We welcome contributions from the community.
 
@@ -137,4 +138,3 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
