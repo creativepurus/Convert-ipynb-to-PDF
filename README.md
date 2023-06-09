@@ -30,11 +30,11 @@
 
 # Steps
 
-### 👉🏻 1. To get started, at first you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
+### 👉🏻 Step 1. To get started, at first you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
 
-### 👉🏻 2. Now Install `Anaconda Navigator` from the official website: https://docs.anaconda.com/free/anaconda/install/ 
+### 👉🏻 Step 2. Now Install `Anaconda Navigator` from the official website: https://docs.anaconda.com/free/anaconda/install/ 
 
-### 👉🏻 3. Now you need to install `nbconvert` tool. To install nbconvert, follow the below mentioned steps:
+### 👉🏻 Step 3. Now you need to install `nbconvert` tool. To install nbconvert, follow the below mentioned steps:
 
 - 1. Open the `command prompt` or terminal
 
@@ -44,7 +44,7 @@ pip install nbconvert
 ```
 - This command will download and install the nbconvert package and its dependencies. Wait for the installation to complete. You should see the progress in the command prompt or terminal.
 
-### 👉🏻 4. Now you need to install `Pandoc` in addition to nbconvert if you want to convert .ipynb files to PDF format. Pandoc is a separate tool that nbconvert relies on for the conversion process.
+### 👉🏻 Step 4. Now you need to install `Pandoc` in addition to nbconvert if you want to convert .ipynb files to PDF format. Pandoc is a separate tool that nbconvert relies on for the conversion process.
 
 - To install Pandoc, follow the below mentioned steps:
 
@@ -62,7 +62,7 @@ pandoc --version
 
 ### 🔰 NOTE : RESTART your Device 💻 (Laptop or Desktop) after installing `nbconvert` and `pandoc`
 
-### 👉🏻 5. Now the final tool that you will need is the `TeX` tool. 
+### 👉🏻 Step 5. Now the final tool that you will need is the `TeX` tool. 
 
 - For converting notebooks to PDF (with --to pdf), nbconvert makes use of `LaTeX` and the `XeTeX` as the rendering engine.
 
@@ -80,7 +80,7 @@ pandoc --version
 
 ### 🔰 NOTE : TeXlive is a large distribution, and installing it might consume a significant amount of disk space. It has over 4000+ files. It might take 1-2 hours (depending upon the system) for TeX Live to install in your device. 
 
-### ☕ So be patient, have a Coffee, and leave the rest on installer. You can also : [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru) here 😊
+### 🔰 So be patient and leave the rest on installer.
 
 - Once you have `nbconvert`, `Pandoc` and `TeX` installed, you should be able to convert Jupyter Notebook (.ipynb) files to PDF
 
@@ -93,7 +93,7 @@ pandoc --version
 ### Step 1 : Open Anaconda Navigator. Then Launch the `Jupyter Notebook`
 ![Step 1](Images/Anaconda-Navigator.png)
 
-### Step 2 : Upload your Notebook
+### Step 2 : `Upload` then Open your Notebook File
 ![Step 2](Images/NB-1.png)
 
 ### Step 3 : Go to `File` > `Download as`
@@ -102,6 +102,9 @@ pandoc --version
 ### Step 4 : Select `PDF via LaTeX (.pdf)`
 ![Step 4](Images/NB-3.png)
 
+- A new window will open up now and your conversion will be done in few seconds/minutes (depending upon the system).
+
+### ☕ So be patient, have a Coffee, and leave the rest. You can also : [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru) here 😊
 
 # Feedback & Contributions
 If you have any suggestions for improving the code or adding new notebooks, feel free to submit a pull request. We welcome contributions from the community.
