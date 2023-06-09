@@ -9,7 +9,7 @@
 
 <div align="center"> 
 
-[![WELCOME MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=false&width=750&height=80&lines=👋+WELCOME+TO+MY+REPOSITORY+📘;📚+CONVERT+.ipynb+file+to+PDF+file)](https://github.com/creativepuru/Convert-ipynb-to-PDF)
+[![WELCOME MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=false&width=750&height=80&lines=👋+WELCOME+TO+MY+REPOSITORY+📘;📚+CONVERT+Jupyter+Notebook+(.ipynb)+file+to+PDF+file)](https://github.com/creativepuru/Convert-ipynb-to-PDF)
 
 </div>
 
