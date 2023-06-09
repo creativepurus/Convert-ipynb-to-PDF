@@ -15,7 +15,7 @@
 
 
 # 📚 Table of Contents
-- 🔰 [About](#🔰-About)
+- 🔰 [About](#About)
 - 💻 
 - 👨‍💻 Getting Started
 - 🔰 
