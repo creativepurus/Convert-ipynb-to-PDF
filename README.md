@@ -32,7 +32,7 @@
 
 ### 2. Now, Install `Anaconda Navigator` from the official website: https://docs.anaconda.com/free/anaconda/install/ 
 
-### 3. Now, you need to install `nbconvert` tool. To install nbconvert, follow the below steps:
+### 3. Now, you need to install `nbconvert` tool. To install nbconvert, follow the below mentioned steps:
 
 - 1. Open the `command prompt` or terminal
 
@@ -42,7 +42,23 @@ pip install nbconvert
 ```
 - This command will download and install the nbconvert package and its dependencies. Wait for the installation to complete. You should see the progress in the command prompt or terminal.
 
+### 4. Now you need to install `Pandoc` in addition to nbconvert if you want to convert .ipynb files to PDF format. Pandoc is a separate tool that nbconvert relies on for the conversion process.
 
+- To install Pandoc, follow the below mentioned steps:
+
+
+- Visit the Official Pandoc website at: https://pandoc.org/installing.html and download the appropriate installer for your operating system.
+
+- Run the installer and follow the on-screen instructions to install `Pandoc`
+
+- After the installation is complete, you can verify the installation by running the following command in the command prompt or terminal:
+```
+pandoc --version
+```
+
+- If the installation was successful, you should see the version information for Pandoc.
+
+- Once you have both `nbconvert` and `Pandoc` installed, you should be able to convert Jupyter Notebook (.ipynb) files to PDF
 
 
 
