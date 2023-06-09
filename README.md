@@ -20,7 +20,7 @@
 - 👨‍💻 [Getting Started](#getting-started)
 - 🔰 
 - 📣 [Feedback & Contributions 🤝](#feedback--contributions)
-- 📖 License
+- 📖 [License](#license)
 - 📲 Connect on Linkedin
 - 👉🏻 Buy Me a Coffee ☕
 
