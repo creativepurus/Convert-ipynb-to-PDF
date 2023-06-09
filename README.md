@@ -82,9 +82,9 @@ pandoc --version
 
 ### 🔰 So be patient and leave the rest on installer.
 
-- Once you have `nbconvert`, `Pandoc` and `TeX` installed, you should be able to convert Jupyter Notebook (.ipynb) files to PDF
+### 🔰 Once you have `nbconvert`, `Pandoc` and `TeX` installed, you should be able to convert Jupyter Notebook (.ipynb) files to PDF
 
-- 👉🏻 Now you can easily convert your `Jupyter Notebook` file to `PDF` file without any error using the `Anaconda Navigator` which you have installed in [Step No. 2](#steps)
+### 👉🏻 Now you can easily convert your `Jupyter Notebook` file to `PDF` file without any error using the `Anaconda Navigator` which you have installed in [Step No. 2](#steps)
 
 # Using Anaconda Navigator
 ### After successfully completing all the above mentioned steps, now you are ready to go.
