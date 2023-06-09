@@ -22,8 +22,9 @@
 - 📲 [Reach Me](#reach-me)
 
 # About
- ✨ This repository provides a simple and convenient way to convert Jupyter Notebook (ipynb) files to PDF format 🤓
- ✨ By following the instructions properly which are mentioned below, you can easily convert any Jupyter Notebook (.ipynb) file to PDF file 🚀
+### ✨ This repository provides a simple and convenient way to convert Jupyter Notebook (ipynb) files to PDF format 🤓
+
+### ✨ By following the instructions properly which are mentioned below, you can easily convert any Jupyter Notebook (.ipynb) file to PDF file 🚀
 
 # Steps
 
