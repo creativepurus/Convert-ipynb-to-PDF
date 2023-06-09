@@ -5,9 +5,7 @@
 💻 Update Files
 -->
 
-> [![Purushottam Anand 🇮🇳 on GitHub ☕](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕ Tap to see 👆🏻")
-
-> [![MY GITHUB PROFILE](https://readme-typing-svg.demolab.com?font=calibri&size=18&pause=500&multiline=false&width=800&height=50&lines=👆🏻+TAP+ON+MY+IMAGE+TO+VISIT+MY+GITHUB+PROFILE)](https://github.com/creativepuru)
+> [![Purushottam Anand 🇮🇳 on GitHub ☕](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕ Tap to see 👆🏻") [![MY GITHUB PROFILE](https://readme-typing-svg.demolab.com?font=calibri&size=18&pause=500&multiline=false&width=800&height=50&lines=👈🏻+TAP+ON+MY+IMAGE+TO+VISIT+MY+GITHUB+PROFILE)](https://github.com/creativepuru)
 
 <b>
 
