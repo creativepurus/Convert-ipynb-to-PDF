@@ -16,12 +16,11 @@
 </div>
 
 # 📚 Table of Contents
-- 🔰 [About](#about)
-- 👨‍💻 [Steps](#steps)
-- 💻 [Using Anaconda Navigator](#using-anaconda-navigator)
-- 📣 [Feedback & Contributions 🤝](#feedback--contributions)
-- 📖 [License](#license)
-- 📲 [Reach Me](#reach-me)
+- 🔰 [ABOUT](#about)
+- 👨‍💻 [STEPS](#steps)
+- 📣 [FEEDBACK & CONTRIBUTIONS 🤝](#feedback--contributions)
+- 📖 [LICENSE](#license)
+- 📲 [REACH ME](#reach-me)
 
 # About
 ### ✨ This repository provides a simple and convenient way to convert Jupyter Notebook (ipynb) files to PDF format 🤓
@@ -91,8 +90,7 @@ pandoc --version
 
 ### 👉🏻 Now you can easily convert your `Jupyter Notebook` file to `PDF` file without any error using the `Anaconda Navigator` which you have installed in [Step No. 2](#steps)
 
-# 👉🏻 Step 6 : 
-## Using Anaconda Navigator
+# 👉🏻 Step 6 : Anaconda Navigator
 ### After successfully completing all the above mentioned steps, now you are ready to go.
 ### Follow the below instructions carefully to convert your `Jupyter Notebook` file to `PDF` file using the `Anaconda Navigator` :
 
