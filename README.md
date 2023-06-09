@@ -25,14 +25,29 @@
 
 # About
 - ✨ This repository provides a simple and convenient way to convert Jupyter Notebook (ipynb) files to PDF format 🤓
-- ✨ The conversion process allows you to easily share and distribute your Jupyter Notebook files as PDF documents 🚀
+- ✨ By following the instructions properly which are mentioned below, you can easily convert any Jupyter Notebook (.ipynb) file to PDF file 🚀
+- ✨ After that you can easily share and distribute your Jupyter Notebook files as PDF documents 🚀
 
 # Getting Started
-- To get started, you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
-- You'll also need to have `Jupyter` installed. You can install it using `pip` using below commands :
+
+- To get started, at first you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
+
+- Now, Install `Anaconda Navigator` from the official website: https://docs.anaconda.com/free/anaconda/install/ 
+
+- Now, you need to install `nbconvert` tool. To install nbconvert, follow the below steps:
+
+- 1. Open the `command prompt` or `terminal`
+
+- 2. (Optional) Activate your Python environment if you're using a virtual environment. Skip this step if you're using the global Python environment.
+
+- 3. Run the following command to install nbconvert using pip:
 ```
-pip install jupyter
+pip install nbconvert
 ```
+### This command will download and install the nbconvert package and its dependencies. Wait for the installation to complete. You should see the progress in the command prompt or terminal.
+
+
+
 
 
 # Feedback & Contributions
