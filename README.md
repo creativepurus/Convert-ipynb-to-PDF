@@ -16,9 +16,7 @@
 
 # 📚 Table of Contents
 - 🔰 [About](#about)
-- 💻 
 - 👨‍💻 [Getting Started](#getting-started)
-- 🔰 
 - 📣 [Feedback & Contributions 🤝](#feedback--contributions)
 - 📖 [License](#license)
 - 📲 [Reach Me](#reach-me)
