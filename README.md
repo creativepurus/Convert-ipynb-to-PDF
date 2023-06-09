@@ -7,7 +7,7 @@
 
 > [![Purushottam Anand 🇮🇳 on GitHub ☕](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕ Tap to see 👆🏻")
 
-[![MY GITHUB PROFILE](https://readme-typing-svg.demolab.com?font=calibri&size=24&duration=200&pause=1000&multiline=false&width=800&height=50&lines=👆🏻+TAP+ON+MY+IMAGE+TO+VISIT+MY+GITHUB+PROFILE)](https://github.com/creativepuru)
+[![MY GITHUB PROFILE](https://readme-typing-svg.demolab.com?font=calibri&size=18&duration=200&pause=1000&multiline=false&width=800&height=50&lines=👆🏻+TAP+ON+MY+IMAGE+TO+VISIT+MY+GITHUB+PROFILE)](https://github.com/creativepuru)
 
 <b>
 
