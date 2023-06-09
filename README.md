@@ -28,19 +28,19 @@
 
 # Getting Started
 
-- To get started, at first you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
+### 1. To get started, at first you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
 
-- Now, Install `Anaconda Navigator` from the official website: https://docs.anaconda.com/free/anaconda/install/ 
+### 2. Now, Install `Anaconda Navigator` from the official website: https://docs.anaconda.com/free/anaconda/install/ 
 
-- Now, you need to install `nbconvert` tool. To install nbconvert, follow the below steps:
+### 3. Now, you need to install `nbconvert` tool. To install nbconvert, follow the below steps:
 
-### 1. Open the `command prompt` or terminal
+- 1. Open the `command prompt` or terminal
 
-### 2. Run the following command to install nbconvert using pip:
+- 2. Run the following command to install nbconvert using pip:
 ```
 pip install nbconvert
 ```
-### This command will download and install the nbconvert package and its dependencies. Wait for the installation to complete. You should see the progress in the command prompt or terminal.
+- This command will download and install the nbconvert package and its dependencies. Wait for the installation to complete. You should see the progress in the command prompt or terminal.
 
 
 
