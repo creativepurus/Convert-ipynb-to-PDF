@@ -16,7 +16,7 @@
 
 # 📚 Table of Contents
 - 🔰 [About](#about)
-- 👨‍💻 [Getting Started](#getting-started)
+- 👨‍💻 [Steps](#steps)
 - 📣 [Feedback & Contributions 🤝](#feedback--contributions)
 - 📖 [License](#license)
 - 📲 [Reach Me](#reach-me)
@@ -26,7 +26,7 @@
 - ✨ By following the instructions properly which are mentioned below, you can easily convert any Jupyter Notebook (.ipynb) file to PDF file 🚀
 - ✨ After that you can easily share and distribute your Jupyter Notebook files as PDF documents 🚀
 
-# Getting Started
+# Steps
 
 ### 1. To get started, at first you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
 
