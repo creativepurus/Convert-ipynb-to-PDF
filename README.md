@@ -83,6 +83,7 @@ pandoc --version
 ### Alternatively, you can also visit the Official website of TeX Live here: https://tug.org/texlive/
 
 ### 🔰 NOTE : TeXlive is a large distribution, and installing it might consume a significant amount of disk space. It has over 4000+ files. It might take 1-2 hours (depending upon the system) for TeX Live to install in your device. 
+![TeX Installer](Images/TeX.png)
 
 ### 🔰 So be patient and leave the rest on installer.
 
